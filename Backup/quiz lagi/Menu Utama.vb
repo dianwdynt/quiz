@@ -1,0 +1,21 @@
+﻿Public Class Menu_Utama
+    Private Sub Button1_Click(ByVal sender As Object, ByVal e As EventArgs) Handles Button1.Click
+        Dim soal1 As New soal1()
+        soal1.Show()
+    End Sub
+
+    Private Sub Button2_Click(ByVal sender As Object, ByVal e As EventArgs) Handles Button2.Click
+        Dim soal2 As New soal2()
+        soal2.Show()
+    End Sub
+
+    Private Sub Button3_Click(ByVal sender As Object, ByVal e As EventArgs) Handles Button3.Click
+        Dim soal3 As New soal3()
+        soal3.Show()
+    End Sub
+
+    Private Sub Button4_Click(ByVal sender As Object, ByVal e As EventArgs) Handles Button4.Click
+        Dim soal4 As New soal4()
+        soal4.Show()
+    End Sub
+End Class

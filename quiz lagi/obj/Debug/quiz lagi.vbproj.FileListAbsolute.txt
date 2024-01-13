@@ -1,0 +1,16 @@
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\ResolveAssemblyReference.cache
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\quiz_lagi.Resources.resources
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\quiz_lagi.soal1.resources
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\quiz lagi.vbproj.GenerateResource.Cache
+C:\doyyann\quiz lagi\quiz lagi\bin\Debug\quiz lagi.exe
+C:\doyyann\quiz lagi\quiz lagi\bin\Debug\quiz lagi.pdb
+C:\doyyann\quiz lagi\quiz lagi\bin\Debug\quiz lagi.xml
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\quiz lagi.exe
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\quiz lagi.xml
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\quiz lagi.pdb
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\quiz_lagi.soal2.resources
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\quiz_lagi.Menu_Utama.resources
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\quiz_lagi.soal3.resources
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\quiz_lagi.soal4.resources
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\quiz lagi.vbproj.AssemblyReference.cache
+C:\doyyann\quiz lagi\quiz lagi\obj\Debug\quiz lagi.vbproj.CoreCompileInputs.cache
